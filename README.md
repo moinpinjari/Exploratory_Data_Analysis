@@ -7,8 +7,8 @@ The presentation will include graphical representations and comparisons.
 Findings and Insights
 
 Recommendations for boosting visibility:
-- Advertise more for higher rated apps
-- Keep interface simpler for every kind of user 
+-Advertise more for higher rated apps
+-Keep interface simpler for every kind of user 
 -Focus on most installed genres
 
 Identifying the most promising apps:
