@@ -21,4 +21,4 @@ Understanding user preferences:
 
 Insights into competition:
 -Most apps compete with each other in genres 
--There should be healthy competition betn these app within play store
+-There should be healthy competition betn these app within play store.
